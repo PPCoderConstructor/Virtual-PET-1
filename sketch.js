@@ -7,9 +7,9 @@ var milk,milk_img;
 function preload()
 {
   //load images here
-  dog_img=loadImage("images/dogImg.png");
-  happyDog_img=loadImage("images/dogImg1.png");
-  milk_img=loadImage("images/milk.png");
+  dog_img=loadImage("dogImg.png");
+  happyDog_img=loadImage("dogImg1.png");
+  milk_img=loadImage("milk.png");
   
 }
 
